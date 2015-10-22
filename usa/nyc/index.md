@@ -5,36 +5,34 @@ Last visited in January 2014.
 
 ##Food/drink
 
-###Barcade (http://www.barcadebrooklyn.com)
-Close to the subway, this is a bar and an arcade in one. Cocktails are very strong, and there’s a great selection of beers.
-![Brooklyn Barcade](http://instagram.com/p/jF5B-_wXsZ/)
+####Barcade (http://www.barcadebrooklyn.com)
+Close to the subway, this is a bar and an arcade in one. Cocktails are very strong, and there’s a great selection of beers. TS tag to find in the ladies toilets.
  
-###Shanghai Joe’s (http://www.joeshanghairestaurants.com)
+####Shanghai Joe’s (http://www.joeshanghairestaurants.com)
 If you're in Chinatown, Shanghai Joe's does excellent dumplings, and huge portions.
 
-###Momofuku Noodle Bar/Ssam/Milk Bar (crack pie)/Booker & Dax (http://momofuku.com)
+####Momofuku Noodle Bar/Ssam/Milk Bar (crack pie)/Booker & Dax (http://momofuku.com)
 All run by the same people, these places are usually very busy but a good bet. The Momofuku ramen at the Noodle Bar was good, but suffered from very poor service. Milk Bar stays open late - grab a slice of Crack Pie after your noodles.
 
-###Junior’s Cheesecake (Brooklyn/Times Square/Grand Central)
+####Junior’s Cheesecake (Brooklyn/Times Square/Grand Central)
 Cheesecake and cake. Either eat in the restaurant or get a takeaway from the coffee shop next door.
 
-###The Spotted Pig (http://thespottedpig.com)
+####The Spotted Pig (http://thespottedpig.com)
 To date, their burger is my favourite that I have ever eaten. Served with rosemary and garlic shoestring fries. They also do excellent bloody marys - a rarity. Book, or be prepared to wait a long time.
-![Spotted Pig](http://instagram.com/p/jFPaRRQXod/)
  
-###Burger Joint at Le Parker Meridien (http://www.burgerjointny.com)
-Go into the lobby, turn left down a small corridor before the end. You’ll see a neon burger sign. It's a packed, tiny room, that does pretty good (filthy) burgers. Write on the walls.
+####Burger Joint at Le Parker Meridien (http://www.burgerjointny.com)
+Go into the lobby, turn left down a small corridor before the end. You’ll see a neon burger sign. It's a packed, tiny room, that does pretty good (filthy) burgers. Write on the walls. TS tag to find in one of the booths.
 
-###Pershing Square Cafe (http://www.pershingsquare.com)
+####Pershing Square Cafe (http://www.pershingsquare.com)
 Excellent blueberry pancakes. Jasmine tea!
 
-###Johny’s Luncheonette (http://www.johnysluncheonette.com)
+####Johny’s Luncheonette (http://www.johnysluncheonette.com)
 Cheap, hearty breakfasts. Tiny little place and nothing amazingly special, but great if you’re in the area and just want some classic diner food.
 
-###Brooklyn Diner (http://www.brooklyndiner.com)
+####Brooklyn Diner (http://www.brooklyndiner.com)
 The polenta and pomodoro sauce you get with the 3 eggs (poached please) and bacon were great.
 
-###Hill Country Barbecue and Market (http://www.hillcountryny.com)
+####Hill Country Barbecue and Market (http://www.hillcountryny.com)
 Get your meat by the weight, plus a table full of sides. You'll probably die. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
 
 
@@ -118,13 +116,13 @@ Macy’s
 
 ##Untried recommendations from others
 
-###Eileen’s Special Cheesecake
+####Eileen’s Special Cheesecake
 
-###Prosperity Dumpling
+####Prosperity Dumpling
 
-###Soba Koh
+####Soba Koh
 
-###Bleeker Pizza
+####Bleeker Pizza
 
 Good things
 - There's a diner called Big Daddy's round the corner from that hotel that does epic burgers and tater tots :) It's also not far from Shake Shack in Gramercy Park - good for a midnight snack (no really, the only time there isn't a queue is after 9pm...) 
