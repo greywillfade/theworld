@@ -7,7 +7,7 @@ Last visited in January 2014.
 
 ###Barcade (http://www.barcadebrooklyn.com)
 Close to the subway, this is a bar and an arcade in one. Cocktails are very strong, and there’s a great selection of beers.
-![Brooklyn Barcade](http://instagram.com/p/jF5B-_wXsZ/ "Brooklyn Barcade")
+![Brooklyn Barcade](http://instagram.com/p/jF5B-_wXsZ/)
  
 ###Shanghai Joe’s (http://www.joeshanghairestaurants.com)
 If you're in Chinatown, Shanghai Joe's does excellent dumplings, and huge portions.
@@ -20,7 +20,7 @@ Cheesecake and cake. Either eat in the restaurant or get a takeaway from the cof
 
 ###The Spotted Pig (http://thespottedpig.com)
 To date, their burger is my favourite that I have ever eaten. Served with rosemary and garlic shoestring fries. They also do excellent bloody marys - a rarity. Book, or be prepared to wait a long time.
-![Spotted Pig](http://instagram.com/p/jFPaRRQXod/ "Spotted Pig")
+![Spotted Pig](http://instagram.com/p/jFPaRRQXod/)
  
 ###Burger Joint at Le Parker Meridien (http://www.burgerjointny.com)
 Go into the lobby, turn left down a small corridor before the end. You’ll see a neon burger sign. It's a packed, tiny room, that does pretty good (filthy) burgers. Write on the walls.
@@ -34,15 +34,9 @@ Cheap, hearty breakfasts. Tiny little place and nothing amazingly special, but g
 ###Brooklyn Diner (http://www.brooklyndiner.com)
 The polenta and pomodoro sauce you get with the 3 eggs (poached please) and bacon were great.
 
-Hill Country Barbecue and Market - http://www.hillcountryny.com/ 
+###Hill Country Barbecue and Market (http://www.hillcountryny.com)
+Get your meat by the weight, plus a table full of sides. You'll probably die. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
 
-Eileen’s Special Cheesecake
-
-Prosperity Dumpling
-
-Soba Koh
-
-Bleeker Pizza
 
 
 ##Comics
@@ -122,28 +116,42 @@ Macy’s
 
 
 
-##Recommendations from others
+##Untried recommendations from others
+
+###Eileen’s Special Cheesecake
+
+###Prosperity Dumpling
+
+###Soba Koh
+
+###Bleeker Pizza
 
 Good things
 - There's a diner called Big Daddy's round the corner from that hotel that does epic burgers and tater tots :) It's also not far from Shake Shack in Gramercy Park - good for a midnight snack (no really, the only time there isn't a queue is after 9pm...) 
 - Brooklyn Flea was cool, v. hipster, but quite good for souvenirs. Brooklyn in general was great - there's a Mayonnaise shop on the way that literally just sells mayo :) But there was a shooting on a road we'd walked down about 3 hours earlier, so leave before dark! 
 - Chelsea Market is also cool for a wander round, and that whole neighbourhood is really cute - and is also where the Ghostbusters firestation is. You can go for a walk along the highline from there too.
 
-korzo haus burgers are the ultimate. Booker and Dax cocktails, Roberta's in Brooklyn for pizza, crack pie from milk bar
+korzo haus burgers are the ultimate.
+Roberta's in Brooklyn for pizza.
 
 Get down to Williamsburg for drinks and I actually recommend Time Out for events while you are there
 
 East 10th Street Russian and Turkish baths
 
-SalvationTaco then rooftop bar after for drinks. Clinton St Bakery best pancakes. Serendipity_3 frozen hot chocolate"
+SalvationTaco then rooftop bar after for drinks. Clinton St Bakery best pancakes. Serendipity_3 frozen hot chocolate
 
-two boots in amazing! theres a lush champagne bar at grand central. go when it goes dark. the ceiling is amazing. across the road from the station is the best place for waffles and all things bad. errr ill try and remember the name but its red building under the bridge
+two boots in amazing! theres a lush champagne bar at grand central. go when it goes dark. the ceiling is amazing.
 
 ililirestauraunt | cronut
 
-Eat: Any/all of the David Chang restaurants: http://momofuku.com/, WD~50 if you really want to get into some interesting molecular gastronomy: http://wd-50.com/
+WD~50 if you really want to get into some interesting molecular gastronomy (ttp://wd-50.com)
 
-I have a million (and exceptionally jealous btw). Cycle around Central Park and hire your bikes from Hells Kitchen (60th street area). Go to Valhallar in Hells Kitchen (815 9th Ave) for random beers but great pub atmosphere. Williamsburg - go there. Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think. Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature. I've signed it obvs. After all that go to La Parisienne for breakfast - classic NYC diner. (7th and 57th street).
+Cycle around Central Park and hire your bikes from Hells Kitchen (60th street area).
+Go to Valhallar in Hells Kitchen (815 9th Ave) for random beers but great pub atmosphere.
+Williamsburg - go there.
+Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
+Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
+After all that go to La Parisienne for breakfast - classic NYC diner. (7th and 57th street).
 
 Danji (http://www.danjinyc.com)
 
