@@ -149,7 +149,6 @@ Go to Valhallar in Hells Kitchen (815 9th Ave) for random beers but great pub at
 Williamsburg - go there.
 Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
 Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
-After all that go to La Parisienne for breakfast - classic NYC diner. (7th and 57th street).
 
 Danji (http://www.danjinyc.com)
 
