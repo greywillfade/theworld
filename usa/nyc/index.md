@@ -78,6 +78,8 @@ Skating in Central Park, Bryant Park, Rockefeller Centre etc
 
 High Line park
 
+Chelsea Market
+
 Nintendo World Store, Rockefeller Centre - http://www.nintendoworldstore.com 
 
 NBA Store
@@ -105,8 +107,6 @@ Tenement Museum (http://www.tenement.org), plus really good beer place opposite
 
 MakerBot Store - http://www.makerbot.com/retail-store/
 
-Central Station
-
 Flatiron Building
 
 Macy’s
@@ -118,16 +118,12 @@ Macy’s
 
 ####Eileen’s Special Cheesecake
 
-####Prosperity Dumpling
-
 ####Soba Koh
 
 ####Bleeker Pizza
 
-Good things
 - There's a diner called Big Daddy's round the corner from that hotel that does epic burgers and tater tots :) It's also not far from Shake Shack in Gramercy Park - good for a midnight snack (no really, the only time there isn't a queue is after 9pm...) 
 - Brooklyn Flea was cool, v. hipster, but quite good for souvenirs. Brooklyn in general was great - there's a Mayonnaise shop on the way that literally just sells mayo :) But there was a shooting on a road we'd walked down about 3 hours earlier, so leave before dark! 
-- Chelsea Market is also cool for a wander round, and that whole neighbourhood is really cute - and is also where the Ghostbusters firestation is. You can go for a walk along the highline from there too.
 
 korzo haus burgers are the ultimate.
 Roberta's in Brooklyn for pizza.
