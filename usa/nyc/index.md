@@ -116,6 +116,9 @@ Macy’s
 
 ##Untried recommendations from others
 
+Izakaya MEW (http://mewnyc.com/mew/)
+
+
 ####Eileen’s Special Cheesecake
 
 ####Soba Koh
