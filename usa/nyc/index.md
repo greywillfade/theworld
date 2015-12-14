@@ -1,9 +1,15 @@
 #New York City
 
-Last visited in January 2014.
+Last visited in December 2015 (previously January 2014).
 
 
 ##Food/drink
+
+####Izakaya MEW (http://mewnyc.com/mew/)
+Small, noisy basement izakaya with a very Japanese feel. You'll probably have to wait as it's extremely popular, but there are some great beers to try whilst you do. The menu is huge, and ranges from sushi and sashimi through to Ramen, more Korean-led dishes, salads, kushiyaki, and loads more. I can recommend the buta kimchi and tonkotsu ramen, but there was so much I would have liked to have tried. The 'squid legs' were (I hope intentionally) very over-cooked by normal standards, but very flavourful. Try the Frozen Kirin if you want an ice-cold beer with frozen foam on the top.
+
+####Black Iron Burger (http://www.blackironburgermidtown.com/)
+Tried as a lazy, jetlagged meal as it was close to the hotel, these are actually pretty good burgers. Try the Wasabi burger rare (without the mushroom) - not quite as wasabi as I'd like, but extremely juicy and served with nori. The garlic or aioli fries were also good, but bear in mind that portions of fries are huge - one between two normal people is fine.
 
 ####Barcade (http://www.barcadebrooklyn.com)
 Close to the subway, this is a bar and an arcade in one. Cocktails are very strong, and there’s a great selection of beers. TS tag to find in the ladies toilets.
@@ -64,6 +70,9 @@ ToyTokyo - https://toytokyo.com/
 
 ##Places
 
+####Brooklyn Smorgasburg & Winter Flea (http://brooklynflea.com/markets/winter-flea-smorgasburg-industry-city/)
+Held at Industry City in the winter (location changes in the summer), this is a very hipster but hugely interesting takeover of a warehouse. Shops range from amazing furniture that made me wish I could ship it back, to Post-it art, to all sorts of vintage oddities. Food-wise, I understand that there's much more in the summer version, but I HIGHLY recommend the Adobo Shack. The Sisig, and pork rib adobo were brilliant.
+
 Ghostbuster locations - http://www.movielocationsguide.com/Ghostbusters/filming_locations 
 
 Abandoned City Hall Ghostbusters subway
@@ -116,9 +125,6 @@ Macy’s
 
 ##Untried recommendations from others
 
-Izakaya MEW (http://mewnyc.com/mew/)
-
-
 ####Eileen’s Special Cheesecake
 
 ####Soba Koh
@@ -152,6 +158,3 @@ Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti
 Danji (http://www.danjinyc.com)
 
 Katz's Deli (http://katzsdelicatessen.com)
-
-
-
