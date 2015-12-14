@@ -5,6 +5,9 @@ Last visited in December 2015 (previously January 2014).
 
 ##Food/drink
 
+####Valhalla (http://valhallabarnyc.com)
+Great place to spend a couple of hours on a lazy afternoon. Large draft and bottled beer selection (I can recommend the Otter Creek Over Grown Pale Ale, and not just because otters). They also do a lunch special with any draft beer and any dish for $13. Nachos with beef are really good. Great music, friendly barman, good atmosphere.
+
 ####Izakaya MEW (http://mewnyc.com/mew/)
 Small, noisy basement izakaya with a very Japanese feel. You'll probably have to wait as it's extremely popular, but there are some great beers to try whilst you do. The menu is huge, and ranges from sushi and sashimi through to Ramen, more Korean-led dishes, salads, kushiyaki, and loads more. I can recommend the buta kimchi and tonkotsu ramen, but there was so much I would have liked to have tried. The 'squid legs' were (I hope intentionally) very over-cooked by normal standards, but very flavourful. Try the Frozen Kirin if you want an ice-cold beer with frozen foam on the top.
 
@@ -149,8 +152,6 @@ ililirestauraunt | cronut
 
 WD~50 if you really want to get into some interesting molecular gastronomy (ttp://wd-50.com)
 
-Cycle around Central Park and hire your bikes from Hells Kitchen (60th street area).
-Go to Valhallar in Hells Kitchen (815 9th Ave) for random beers but great pub atmosphere.
 Williamsburg - go there.
 Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
 Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
