@@ -139,6 +139,41 @@ Macy’s
 
 ##Untried recommendations from others
 
+####Please Don't Tell
+Oli C - "Epic hidden cocktail bar - entrance is inside a phone booth in Crif Dog’s next door. You’re best calling bang on 3pm the same day (+1 (212) 614 0386) to reserve a table - they go QUICK. We had to try and get through for AGES to get a booking for Fri night, so I’d pick another night if poss."
+https://www.google.co.uk/maps/place/Please+Don't+Tell/@40.7219331,-74.0012921,15z/
+
+####Penelope
+Oli C - "Great little breakfast place - we really enjoyed it. Got there early due to jetlag, which was good, because it filled up fairly quick."
+https://www.google.co.uk/maps/place/Penelope/@40.7453931,-73.991273,15z/
+
+####Battery Park
+Oli C - "Sunset here was incredible"
+https://www.google.co.uk/maps/place/Battery+Park/@40.7125721,-74.0077477,15z/
+
+####Motorino
+Oli C - "Good pizza!"
+https://www.google.co.uk/maps/place/Motorino/@40.72207,-73.9970618,15z/
+
+####Toby's Estate Coffee
+Oli C - "REALLY good coffee shop in Williamsburg"
+https://www.google.co.uk/maps/place/Toby's+Estate+Coffee/@40.7179975,-73.9591707,15z/
+
+####Blue Bottle Coffee
+Oli C - "More good coffee in Williamsburg"
+https://www.google.co.uk/maps/place/Blue+Bottle+Coffee/@40.7179975,-73.9591707,15z/
+
+####Radegast Hall
+Oli C - "German beer hall in Williamsburg"
+https://www.google.co.uk/maps/place/Radegast+Hall+%26+Biergarten/@40.7179975,-73.9591707,15z/
+
+####Employees Only
+https://www.google.co.uk/maps/place/Employees+Only/@40.730259,-74.0047683,16z/
+
+####Jacks Wife Freda
+Oli C - "(We left it too late to get a table - really popular)"
+https://www.google.co.uk/maps/place/Jack's+Wife+Freda/@40.730259,-74.0047683,16z/
+
 ####Eileen’s Special Cheesecake
 
 ####Soba Koh
@@ -166,6 +201,6 @@ Williamsburg - go there.
 Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
 Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
 
-Danji (http://www.danjinyc.com)
+####Danji (http://www.danjinyc.com)
 
-Katz's Deli (http://katzsdelicatessen.com)
+####Katz's Deli (http://katzsdelicatessen.com)
