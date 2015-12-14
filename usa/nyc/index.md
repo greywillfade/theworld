@@ -45,6 +45,13 @@ The polenta and pomodoro sauce you get with the 3 eggs (poached please) and baco
 Get your meat by the weight, plus a table full of sides. You'll probably die from fatness. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
 
 
+##Hotels
+
+####Eventi Hotel
+
+####The Refinery
+
+
 ##Comics
 
 ####Midtown Comics (http://www.midtowncomics.com)
