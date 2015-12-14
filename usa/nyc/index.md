@@ -42,33 +42,34 @@ Cheap, hearty breakfasts. Tiny little place and nothing amazingly special, but g
 The polenta and pomodoro sauce you get with the 3 eggs (poached please) and bacon were great.
 
 ####Hill Country Barbecue and Market (http://www.hillcountryny.com)
-Get your meat by the weight, plus a table full of sides. You'll probably die. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
-
+Get your meat by the weight, plus a table full of sides. You'll probably die from fatness. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
 
 
 ##Comics
 
-Midtown Comics - http://www.midtowncomics.com/ - Extensive set of comics, great if you’ve missed some recently. Upstairs has toys and tshirts.
+####Midtown Comics (http://www.midtowncomics.com)
+Extensive set of comics, great if you’ve missed some recently. Upstairs has toys and tshirts.
 
-Forbidden Planet - http://www.fpnyc.com/ 
+####Forbidden Planet - http://www.fpnyc.com/ 
 
 
 ##Games
 
-Video Games New York - http://videogamesnewyork.com 
+####Video Games New York (http://videogamesnewyork.com)
 
 (Barcade above)
 
 
 ##Toys
 
-FAO Schwarz - http://www.fao.com/shop/index.jsp?categoryId=3810526 
-(Muppet Whatnot Workshop) - http://www.fao.com/whatnots/ 
+####Toys R Us (60 foot ferris wheel, roaring T-Rex)
+http://www.toysrusinc.com/about-us/times-square/ 
 
-Toys R Us (60 foot ferris wheel, roaring T-Rex)  - http://www.toysrusinc.com/about-us/times-square/ 
+####Kidrobot
+118 Prince St, Manhattan, NY
 
-Kidrobot - 118 Prince St, Manhattan, NY
-ToyTokyo - https://toytokyo.com/ 
+####ToyTokyo
+https://toytokyo.com/ 
 
 
 ##Places
@@ -76,46 +77,56 @@ ToyTokyo - https://toytokyo.com/
 ####Brooklyn Smorgasburg & Winter Flea (http://brooklynflea.com/markets/winter-flea-smorgasburg-industry-city/)
 Held at Industry City in the winter (location changes in the summer), this is a very hipster but hugely interesting takeover of a warehouse. Shops range from amazing furniture that made me wish I could ship it back, to Post-it art, to all sorts of vintage oddities. Food-wise, I understand that there's much more in the summer version, but I HIGHLY recommend the Adobo Shack. The Sisig, and pork rib adobo were brilliant.
 
-Ghostbuster locations - http://www.movielocationsguide.com/Ghostbusters/filming_locations 
+####Ghostbuster locations
+Assorted - see [filming locations](http://www.movielocationsguide.com/Ghostbusters/filming_locations).
 
-Abandoned City Hall Ghostbusters subway
-Stay on the subway -  ride the 6 train to the end of the line - stay on as it turns around.
-http://www.gbfans.com/community/viewtopic.php?f=37&t=22959 
-http://www.huffingtonpost.com/2010/11/10/the-hidden-abandoned-city_n_781669.html#s179126 
+Includes:
+*Tavern on the Green, Central Park
+*Abandoned City Hall subway station - Ride the 6 train to the end of the line and stay on as it turns around. [Reference](http://www.gbfans.com/community/viewtopic.php?f=37&t=22959) | [Reference](http://www.huffingtonpost.com/2010/11/10/the-hidden-abandoned-city_n_781669.html#s179126)
 (Note that this is actually really dark, and you can barely see anything at all. Don’t go expecting to be able to take brilliant photos!)
+*New York Public Library
 
-NY Public Library / Bryant Park
+####New York Public Library & Bryant Park
 
-Skating in Central Park, Bryant Park, Rockefeller Centre etc
+####Central Park
+* Ice skating
+* Strawberry Fields
+* Boating lake
 
-High Line park
+####Ice skating rinks in winter
+*Central Park
+*Bryant Park
+*Rockefeller Centre
 
-Chelsea Market
+####High Line park
 
-Nintendo World Store, Rockefeller Centre - http://www.nintendoworldstore.com 
+####Chelsea Market
 
-NBA Store
+####Nintendo World Store, Rockefeller Centre
+http://www.nintendoworldstore.com 
 
-MoMa
+####MoMA
 
-West Village (for a walk and food)
+####West Village (for a walk and food)
 
-Intrepid Sea, Air and Space Museum
+####Intrepid Sea, Air and Space Museum
 
-South Street Seaport
+####South Street Seaport
 
-Chinatown
+####Chinatown
 
-Free ferry to Staten Island
+####Free ferry to Staten Island
 
-Museum of Comic and Cartoon Art - http://www.societyillustrators.org/mocca.aspx?id=8560
+####Museum of Comic and Cartoon Art
+http://www.societyillustrators.org/mocca.aspx?id=8560
 
-Empire State Building/Ground Zero/Times Square/touristy things
+####Empire State Building/Ground Zero/Times Square/touristy things
 
-American Psycho locations - http://dealbook.nytimes.com/2011/08/02/mapping-the-new-york-of-american-psycho/?_r=0 
+####American Psycho locations
+http://dealbook.nytimes.com/2011/08/02/mapping-the-new-york-of-american-psycho/?_r=0 
 http://www.scoutingny.com/?p=4259 
 
-Tenement Museum (http://www.tenement.org), plus really good beer place opposite
+####Tenement Museum (http://www.tenement.org), plus really good beer place opposite
 
 MakerBot Store - http://www.makerbot.com/retail-store/
 
@@ -135,7 +146,6 @@ Macy’s
 ####Bleeker Pizza
 
 - There's a diner called Big Daddy's round the corner from that hotel that does epic burgers and tater tots :) It's also not far from Shake Shack in Gramercy Park - good for a midnight snack (no really, the only time there isn't a queue is after 9pm...) 
-- Brooklyn Flea was cool, v. hipster, but quite good for souvenirs. Brooklyn in general was great - there's a Mayonnaise shop on the way that literally just sells mayo :) But there was a shooting on a road we'd walked down about 3 hours earlier, so leave before dark! 
 
 korzo haus burgers are the ultimate.
 Roberta's in Brooklyn for pizza.
