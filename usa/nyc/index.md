@@ -72,9 +72,6 @@ Extensive set of comics, great if you’ve missed some recently. Upstairs has to
 ####Toys R Us (60 foot ferris wheel, roaring T-Rex)
 http://www.toysrusinc.com/about-us/times-square/ 
 
-####Kidrobot
-118 Prince St, Manhattan, NY
-
 ####ToyTokyo
 https://toytokyo.com/ 
 
