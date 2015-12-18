@@ -44,6 +44,8 @@ The polenta and pomodoro sauce you get with the 3 eggs (poached please) and baco
 ####Hill Country Barbecue and Market (http://www.hillcountryny.com)
 Get your meat by the weight, plus a table full of sides. You'll probably die from fatness. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
 
+####UrbanSpace Vanderbilt (http://urbanspacevanderbilt.com/)
+
 
 ##Hotels
 
@@ -77,6 +79,8 @@ https://toytokyo.com/
 
 
 ##Places
+
+####Metropolitan Museum of Art (http://www.metmuseum.org/)
 
 ####Brooklyn Smorgasburg & Winter Flea (http://brooklynflea.com/markets/winter-flea-smorgasburg-industry-city/)
 Held at Industry City in the winter (location changes in the summer), this is a very hipster but hugely interesting takeover of a warehouse. Shops range from amazing furniture that made me wish I could ship it back, to Post-it art, to all sorts of vintage oddities. Food-wise, I understand that there's much more in the summer version, but I HIGHLY recommend the Adobo Shack. The Sisig, and pork rib adobo were brilliant.
@@ -177,6 +181,8 @@ https://www.google.co.uk/maps/place/Employees+Only/@40.730259,-74.0047683,16z/
 ####Jacks Wife Freda
 Oli C - "(We left it too late to get a table - really popular)"
 https://www.google.co.uk/maps/place/Jack's+Wife+Freda/@40.730259,-74.0047683,16z/
+
+####Modern Pinball NYC (http://www.modernpinballnyc.com/)
 
 ####Eileen’s Special Cheesecake
 
