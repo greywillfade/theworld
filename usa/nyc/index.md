@@ -104,9 +104,9 @@ Includes:
 * Boating lake
 
 ####Ice skating rinks in winter
-*Central Park
-*Bryant Park
-*Rockefeller Centre
+* Central Park 
+* Bryant Park
+* Rockefeller Centre
 
 ####High Line park
 
@@ -191,8 +191,6 @@ https://www.google.co.uk/maps/place/Jack's+Wife+Freda/@40.730259,-74.0047683,16z
 ####Soba Koh
 
 ####Bleeker Pizza
-
-- There's a diner called Big Daddy's round the corner from that hotel that does epic burgers and tater tots :) It's also not far from Shake Shack in Gramercy Park - good for a midnight snack (no really, the only time there isn't a queue is after 9pm...) 
 
 korzo haus burgers are the ultimate.
 Roberta's in Brooklyn for pizza.
