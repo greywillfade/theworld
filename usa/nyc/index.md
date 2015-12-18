@@ -2,6 +2,8 @@
 
 Last visited in December 2015 (previously January 2014).
 
+[Google custom map of locations](https://www.google.com/maps/d/edit?mid=z-xEPIrW3fPg.kVC0XqklSNjo&usp=sharing)
+
 
 ##Food/drink
 
