@@ -10,23 +10,41 @@ Last visited in December 2015 (previously January 2014).
 ####Valhalla (http://valhallabarnyc.com)
 Great place to spend a couple of hours on a lazy afternoon. Large draft and bottled beer selection (I can recommend the Otter Creek Over Grown Pale Ale, and not just because otters). They also do a lunch special with any draft beer and any dish for $13. Nachos with beef are really good. Great music, friendly barman, good atmosphere.
 
+####Rattle N'Hum
+Bit of a strange mix of Irish pub and... not sure what. Food isn't great, but there is a happy hour and a wide selection of beers. Not as good as Valhalla.
+
 ####Izakaya MEW (http://mewnyc.com/mew/)
 Small, noisy basement izakaya with a very Japanese feel. You'll probably have to wait as it's extremely popular, but there are some great beers to try whilst you do. The menu is huge, and ranges from sushi and sashimi through to Ramen, more Korean-led dishes, salads, kushiyaki, and loads more. I can recommend the buta kimchi and tonkotsu ramen, but there was so much I would have liked to have tried. The 'squid legs' were (I hope intentionally) very over-cooked by normal standards, but very flavourful. Try the Frozen Kirin if you want an ice-cold beer with frozen foam on the top.
 
+####Barcade (http://www.barcadebrooklyn.com)
+Close to the subway (Brooklyn), this is a bar and an arcade in one. They have also expanded and there is one in Manhattan too. Cocktails are very strong, and there’s a great selection of beers. Several bits of Sharpie comments left to find in the ladies toilets in Brooklyn and Manhattan.
+
+####Parm - upper west side (http://www.parmnyc.com/location/upper-west-side/)
+Sit at the bar, have the Meatball Parm Hero. Follow up with a cupcake from...
+
+####Magnolia Bakery
+Just a block or so away from Parm.
+
+####Katz's Deli (http://katzsdelicatessen.com)
+Table service or wait at the counter (counter is quicker). Have the pastrami on rye. Take a photo of the When Harry Met Sally spot.
+
+####Hide-Chan Ramen (http://www.hidechanramen.nyc/)
+This ramen place is (slightly confusingly) next door to another ramen place, run by the same people. They're both good. Have the spicy garlic ramen (without mushrooms, you crazy person).
+
 ####Black Iron Burger (http://www.blackironburgermidtown.com/)
 Tried as a lazy, jetlagged meal as it was close to the hotel, these are actually pretty good burgers. Try the Wasabi burger rare (without the mushroom) - not quite as wasabi as I'd like, but extremely juicy and served with nori. The garlic or aioli fries were also good, but bear in mind that portions of fries are huge - one between two normal people is fine.
-
-####Barcade (http://www.barcadebrooklyn.com)
-Close to the subway, this is a bar and an arcade in one. Cocktails are very strong, and there’s a great selection of beers. TS tag to find in the ladies toilets.
  
 ####Shanghai Joe’s (http://www.joeshanghairestaurants.com)
 If you're in Chinatown, Shanghai Joe's does excellent dumplings, and huge portions.
 
 ####Momofuku Noodle Bar/Ssam/Milk Bar (crack pie)/Booker & Dax (http://momofuku.com)
-All run by the same people, these places are usually very busy but a good bet. The Momofuku ramen at the Noodle Bar was good, but suffered from very poor service. Milk Bar stays open late - grab a slice of Crack Pie after your noodles.
+All run by the same people, these places are usually very busy but a good bet. The Momofuku ramen at the Noodle Bar was good, but suffered from very poor service. Milk Bar stays open late - grab a slice of Crack Pie after your noodles. There are a few all over Manhattan.
 
 ####Junior’s Cheesecake (Brooklyn/Times Square/Grand Central)
 Cheesecake and cake. Either eat in the restaurant or get a takeaway from the coffee shop next door.
+
+####Eileen’s Special Cheesecake
+Better than Junior's, I think. Grab a mini cheesecake (recommend the Oreo one and the creme brulee) and sit in.
 
 ####The Spotted Pig (http://thespottedpig.com)
 To date, their burger is my favourite that I have ever eaten. Served with rosemary and garlic shoestring fries. They also do excellent bloody marys - a rarity. Book, or be prepared to wait a long time.
@@ -41,19 +59,26 @@ Excellent blueberry pancakes. Jasmine tea!
 Cheap, hearty breakfasts. Tiny little place and nothing amazingly special, but great if you’re in the area and just want some classic diner food.
 
 ####Brooklyn Diner (http://www.brooklyndiner.com)
-The polenta and pomodoro sauce you get with the 3 eggs (poached please) and bacon were great.
+Lots of locations, more expensive than your average diner and more of a tourist trap, but also really good. Service can be patchy. Personal favourite is the 3 eggs (poached please), bacon, polenta and pomodoro sauce.
 
 ####Hill Country Barbecue and Market (http://www.hillcountryny.com)
-Get your meat by the weight, plus a table full of sides. You'll probably die from fatness. You may have to wait in the bar with a buzzer to get a table, and I was so jetlagged that I can't remember what was good, so try it all.
+Get your meat by the weight, plus a table full of sides. You'll probably die from fatness. You may have to wait in the bar with a buzzer to get a table. Ribs and beans with burnt ends are good.
 
 ####UrbanSpace Vanderbilt (http://urbanspacevanderbilt.com/)
+New food hall that has popped up near to Grand Central (but not in it - it's not the one in the basement). Has all sorts, including lobster, korean bowls, fried chicken etc. Gets very busy at lunchtime.
 
+####Halal Guys (http://53rdand6th.com/)
+If you're hungover and feeling like you need a filthy meal, or just can't resist the lure of the amazing smell, try the combo (you want to try both) from the Halal Guys food stall at 53rd and 6th. The white sauce is great, the red sauce is very hot.
+
+####Mexicue
+Started off as a food cart, this was really pleasantly surprising at how good it was. Good beers, and can recommend the burnt ends chilli, ribs, brussels, and the green chilli mac and cheese.
 
 ##Hotels
 
 ####Eventi Hotel
 
 ####The Refinery
+Industrial-style hotel near to Bryant Park. Excellent location, but does get quite noisy from the traffic. If you ask for a kettle they'll give you one. Great view of the Empire State Building from the bar.
 
 
 ##Comics
@@ -61,12 +86,14 @@ Get your meat by the weight, plus a table full of sides. You'll probably die fro
 ####Midtown Comics (http://www.midtowncomics.com)
 Extensive set of comics, great if you’ve missed some recently. Upstairs has toys and tshirts.
 
-####Forbidden Planet - http://www.fpnyc.com/ 
+####Forbidden Planet - http://www.fpnyc.com/
+The usual mix of toys, statues, books and comics. Good selection.
 
 
 ##Games
 
 ####Video Games New York (http://videogamesnewyork.com)
+Tiny little place packed full of old games and consoles.
 
 (Barcade above)
 
@@ -76,8 +103,11 @@ Extensive set of comics, great if you’ve missed some recently. Upstairs has to
 ####Toys R Us (60 foot ferris wheel, roaring T-Rex)
 http://www.toysrusinc.com/about-us/times-square/ 
 
-####ToyTokyo
-https://toytokyo.com/ 
+####ToyTokyo (https://toytokyo.com)
+Two floors, the closest thing to a Japanese toy shop you'll probably get in New York. Combine with a trip to Katz' Deli and myplasticheart. 
+
+####myplasticheart NYC (http://www.myplasticheart.com/)
+Tiny little place, tucked away. Has a selection of more obscure vinyl toys and small exhibitions. Combine with a trip to Katz' Deli and ToyTokyo.
 
 
 ##Places
@@ -186,8 +216,6 @@ https://www.google.co.uk/maps/place/Jack's+Wife+Freda/@40.730259,-74.0047683,16z
 
 ####Modern Pinball NYC (http://www.modernpinballnyc.com/)
 
-####Eileen’s Special Cheesecake
-
 ####Soba Koh
 
 ####Bleeker Pizza
@@ -212,5 +240,3 @@ Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship
 Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
 
 ####Danji (http://www.danjinyc.com)
-
-####Katz's Deli (http://katzsdelicatessen.com)
