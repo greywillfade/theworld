@@ -1,6 +1,6 @@
 #New York City
 
-Last visited in December 2015 (previously January 2014).
+Last visited in May 2016 (previously January 2014, December 2015).
 
 [Google custom map of locations](https://www.google.com/maps/d/edit?mid=z-xEPIrW3fPg.kVC0XqklSNjo&usp=sharing)
 
@@ -75,7 +75,11 @@ Started off as a food cart, this was really pleasantly surprising at how good it
 
 ##Hotels
 
+####Hilton DoubleTree Financial District
+Good Subway links (you have several lines extremely close), but the hotel itself is quite dated. Suffered from noisy pipes squeaking, and the lifts have HUGE capacity issues. Don't underestimate this if you see in reviews - it took me over half an hour to get out of the hotel on the Saturday. Much quieter in terms of traffic noise, but did have building work noise going on from around 4am some days.
+
 ####Eventi Hotel
+Appears to have been refurbed since our stay in 2015. No complaints at the time, lovely room and free wine at happy hour.
 
 ####The Refinery
 Industrial-style hotel near to Bryant Park. Excellent location, but does get quite noisy from the traffic. If you ask for a kettle they'll give you one. Great view of the Empire State Building from the bar.
