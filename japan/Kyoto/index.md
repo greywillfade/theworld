@@ -1,3 +1,15 @@
+#Hotels
+- Sakura Terrace The Gallery http://sakuraterrace-gallery.jp/en/
+
+#Restaurants
+- Toraji (Yodobashi 6th floor)
+- Food market at Fushimi-Inari
+- Katsukura かつくら四条東洞院店
+
+#Things to do
+- Nara (deer and Todai-ji)
+- Fushimi-Inari
+
 #Eki stamps
 
 All of the stamps in Kyoto seem to be round and much larger than those in Tokyo, so be careful when buying something to keep them in!
