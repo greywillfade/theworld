@@ -36,3 +36,6 @@ Inside the ticket office, near (turn left after) the Electric City exit as you'r
 
 ###Ochanomizu
 Just inside the main entrance, on the left as you're coming in (outside the ticket gates). There is another smaller entrance - not this one.
+
+###Shinagawa
+Was in a rush to get the shinkansen and failed to find this one. Let me know if you know where it is!
