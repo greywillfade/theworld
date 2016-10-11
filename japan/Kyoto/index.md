@@ -2,7 +2,7 @@
 - Sakura Terrace The Gallery http://sakuraterrace-gallery.jp/en/
 
 #Restaurants
-- Toraji (Yodobashi 6th floor)
+- Toraji (Yodobashi 6th floor) http://www.ebisu-toraji.com/en/shop/kyotofu/kyoto/kyoto/?area=kyoto
 - Food market at Fushimi-Inari
 - Katsukura かつくら四条東洞院店
 
