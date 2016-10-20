@@ -55,4 +55,4 @@ Inside the ticket office, near (turn left after) the Electric City exit as you'r
 Just inside the main entrance, on the left as you're coming in (outside the ticket gates). There is another smaller entrance - not this one.
 
 ###Shinagawa
-Was in a rush to get the shinkansen and failed to find this one. Let me know if you know where it is!
+In the middle of the main seat reservation office, against the window as you look out towards the central entrance gates.
