@@ -73,6 +73,9 @@ If you're hungover and feeling like you need a filthy meal, or just can't resist
 ####Mexicue
 Started off as a food cart, this was really pleasantly surprising at how good it was. Good beers, and can recommend the burnt ends chilli, ribs, brussels, and the green chilli mac and cheese.
 
+####Matcha Bar (http://matchabarnyc.com/)
+
+
 ##Hotels
 
 ####Hilton DoubleTree Financial District
@@ -115,6 +118,9 @@ Tiny little place, tucked away. Has a selection of more obscure vinyl toys and s
 
 
 ##Places
+
+####Brooklyn Brewery tour
+Can be a long queue at times to even get in the building (then a wait before your tour) when they don't take reservations, but this is really interesting if you're interested in brewing. You can buy beer tokens to sample a wide range of their beers, and merch is also sold.
 
 ####Metropolitan Museum of Art (http://www.metmuseum.org/)
 
@@ -227,8 +233,6 @@ https://www.google.co.uk/maps/place/Jack's+Wife+Freda/@40.730259,-74.0047683,16z
 korzo haus burgers are the ultimate.
 Roberta's in Brooklyn for pizza.
 
-Get down to Williamsburg for drinks and I actually recommend Time Out for events while you are there
-
 East 10th Street Russian and Turkish baths
 
 SalvationTaco then rooftop bar after for drinks. Clinton St Bakery best pancakes. Serendipity_3 frozen hot chocolate
@@ -239,8 +243,10 @@ ililirestauraunt | cronut
 
 WD~50 if you really want to get into some interesting molecular gastronomy (ttp://wd-50.com)
 
-Williamsburg - go there.
-Do the Brooklyn Brewery Tour. Right opposite the brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
+####Williamsburg 
+Right opposite the Brooklyn Brewery is a great vintage ship selling vintage t shirts and amazing stuff in general - called Beacons closet I think.
 Go to the Lucky Dog pub in Williamsburg and play shuffleboard - you can graffiti the ladies loo door next to Beyonces signature.
 
 ####Danji (http://www.danjinyc.com)
+
+L'Artusi - https://foursquare.com/v/lartusi/4a27289cf964a52062911fe3
