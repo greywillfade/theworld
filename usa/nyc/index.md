@@ -7,6 +7,9 @@ Last visited in May 2016 (previously January 2014, December 2015).
 
 ##Food/drink
 
+####Blue Ribbon Sushi (http://www.blueribbonrestaurants.com/restaurants/blue-ribbon-sushi-original)
+I was taken here by a friend, and if I'm remembering correctly this was his 'second favourite' sushi place (I still need to ask about the first). We went to the one on Sullivan St, and it was really good. The menu has an excellent selection, and the place itself had a lovely cosy atmosphere very reminiscent of Japan. Come early, as they get very busy. I need to go back to pick out individual dishes as we were chatting so much that it felt rude to take notes!
+
 ####Valhalla (http://valhallabarnyc.com)
 Great place to spend a couple of hours on a lazy afternoon. Large draft and bottled beer selection (I can recommend the Otter Creek Over Grown Pale Ale, and not just because otters). They also do a lunch special with any draft beer and any dish for $13. Nachos with beef are really good. Great music, friendly barman, good atmosphere.
 
