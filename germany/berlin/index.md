@@ -1,13 +1,18 @@
-#Berlin
+# Berlin
 
-##Food & drink
+## Food & drink
 
-####Augustiner am Gendarmenmarkt (http://www.augustiner-braeu-berlin.de/)
+#### Augustiner am Gendarmenmarkt (http://www.augustiner-braeu-berlin.de/)
 
 
-###Recommendations
+### Recommendations
 
-####Food and drink
+#### Food and drink
+
+House of Small Wonder
+From Oli - Japanese twist on brunch
+
+
 One of the best bars we found there is Hops & Barley Hausbrauerei
 Another good one, Hopfenreich- Craft Beer Bar 
 In the West, Brauhaus Lemke great food and beer
@@ -32,7 +37,7 @@ Konnipke's Imbiss under Eberswalder Strasse station is great for currywurst.
 
 Oh and Sankt Oberholz at Rosenthaler Platz is an amazing cafe place if you need to use wifi - it's kinda the freelancers centre of Berlin - and the kebab shop across the road (underneath the gym) is one of the best in the city.
 
-####Things to do and see
+#### Things to do and see
 
 Computerspielemuseum
 
@@ -54,7 +59,7 @@ Watergate and Weekend are also both good clubs.
 
 Teufelsberg
 
-####Tips
+#### Tips
 
 Buy a week's U-Bahn pass rather than one of the tourist passes - you only need zones A-B but get a single A-C if you're going into town from Schonefeld, they check quite regularly.
 
