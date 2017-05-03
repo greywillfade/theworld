@@ -12,6 +12,8 @@
 House of Small Wonder
 From Oli - Japanese twist on brunch
 
+Dudu - from Oli
+
 
 One of the best bars we found there is Hops & Barley Hausbrauerei
 Another good one, Hopfenreich- Craft Beer Bar 
