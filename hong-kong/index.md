@@ -3,11 +3,15 @@
 Advice all from [Charis Rooda](http://twitter.com/charis) at present! To be updated with my findings after September.
 
 ## Practical advice
-When you arrive, take the airport express to town, from there take a taxi to the hotel.
-There are some ATM’s at the airport.
-In general, taxis are good and cheap. And when you’re tired from a full day, take a taxi
-Get a local taxi app.
-Get a local SIM card - all local shops sell them and they are a few euros a day
+"When you arrive, take the airport express to town, from there take a taxi to the hotel."
+
+"There are some ATM’s at the airport."
+
+"In general, taxis are good and cheap. And when you’re tired from a full day, take a taxi"
+
+"Get a local taxi app."
+
+"Get a local SIM card - all local shops sell them and they are a few euros a day"
 
 "Hong Kong is hot. Very hot! It has been raining quite a lot, and I hope that’s coming to an end. Still, it’s is very humid. 70% to 90% which means if you walk outside you get sweaty. So pack you shortest dresses and skirts. Which is fine anyway, because anything goes here."
 
