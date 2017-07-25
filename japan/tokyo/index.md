@@ -1,5 +1,8 @@
 # Bars
 
+#### Coins Bar, Shibuya
+Little basement bar. Everything's cheap (costs *coins*), and we always have a really fun night here.
+
 #### Spincoaster, Shinjuku
 Visited Spincoaster after finding it through reviews, and was extremely impressed. The bar plays a mix of vinyl and digital, and whilst you get a free request with your cover charge we decided not to play anything as the owner/DJ's playlist was so great! Wine and cocktails were both very good, there are rice crackers/chocolate rice snacks on the table (included with the cover charge), and the staff were lovely. Highly recommend if you're in the area and want some good drinks and good music in a chilled out little bar.
 
