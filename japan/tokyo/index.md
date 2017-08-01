@@ -1,3 +1,25 @@
+This is an introduction to Tokyo, based on the times I've been there since 2008. I'll kick off with some general tips (most of which apply to all of Japan, but Tokyo's usually the starting point). If you want specific place recommendations, skip ahead.
+
+The disclaimer here is that Tokyo is vast and ever-changing, so these recommendations may date very quickly! Also, as great as some spots are, you'll find your own just by wandering. There's so much to see and do and some of the things that you just stumble across can be the most special.
+
+Most things have got much, much better at being English-speaking friendly but some bits can still be a bit overwhelming. I hope that this helps.
+
+# The basics
+
+## Get a local SIM
+Check online with companies like [b-mobile](http://www.bmobile.ne.jp/english/) to buy a local SIM card and get it delivered to the airport post office. The offerings change so rapidly that it's not worth me namechecking any, but do your own research. It's extremely simple to collect things at the airport, and a SIM will likely save you tons of cash if you're there for any amount of time. The first time I went to Japan I used a printed street atlas and failed to find tons of things - Google Maps will make your life so much easier.
+
+## Heading into Tokyo from Narita
+The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. An alternative is the Narita Express train (NEX) which you can catch from directly under the airport. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
+
+## Trains
+Japan's trains are run by different networks. If you're thinking about taking any longer distance trains (outside of the airport trip) you may be better off investigating the Japan Rail Pass (a rail pass for overseas visitors). This lets you inclusively travel on selected bullet trains (some types are not included), on the underground network, and other things run by Japan Rail for the duration of your pass. Buy a voucher for the pass in advance, sent to you at home, which you then redeem at JR stations once you get to Japan. You also must get a Temporary Visitor stamp in your passport on arrival.
+
+It's also worth reading up on the different companies, as this will remove some of your confusion. In Tokyo you'll want a Tokyo Metro subway map as well as a JR one! Stations don't connect, so at a station that has both systems you may need to resurface and go back down into the other network.
+
+There are english buttons on the train screens if you need, but the principle is you pay the price shown on the map (top for adult, bottom is child) for a single trip to your destination. (If you're not buying any kind of pass)
+
+
 # Bars
 
 #### Coins Bar, Shibuya
@@ -10,6 +32,9 @@ Visited Spincoaster after finding it through reviews, and was extremely impresse
 Has a selection of Hitachino beers on tap as well as small plates of food. The beers swap in and out of rotation daily. By the river, so bring your mosquito repellent!
 
 # Food
+
+With vending machine places, put your money in first, press things to match the food you've probably seen in the window or on a sign, take the tickets and pass them to the chef or whoever comes to the table.
+
 #### Han No Daidokoro (Shibuya)
 Yakiniku. Really friendly staff and a cozy atmosphere make this a great experience. The Kobe beef was excellent, but really enjoyed the cucumber and kimchi too.
 
@@ -48,8 +73,29 @@ TODO: add everything else that I keep meaning to!
 - Pokemon Center Mega Tokyo
 
 # Things to do
+
+- Tsukiji
+- Ghibli
+- Odaiba (argh)
+
+## Gardens
 - Rikugien
+
+## Temples
+
+### Meiji Jingu
+
 TODO: fill in all the obvious good stuff
+
+# Day trips
+
+### Kamakura
+If you're only going to Tokyo, a day trip out to Kamakura is highly recommended to see a bit more of the country. There are all kinds of temples, an enormous buddha, a really cute little train, but you'll also probably enjoy just walking through the buildings. The beach isn't a *beach* beach (don't turn up in your bikini), but worth a wander to go and see some fishing boats.
+
+
+# Other recommendations
+Bar High Five, Gen Yamamoto
+
 
 # Train stamps
 
