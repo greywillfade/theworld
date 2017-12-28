@@ -45,6 +45,11 @@ Reasonably cheap sushi option in the station. They have some more varied options
 - Imperial palace
 - Kiyomizu-dera Temple (was being renovated and you can't get to the key bits)
 - Nishiki market
+- Kinkaku-ji
+- Ginkaku-ji
+- Gion
+
+- Namco Land Aeon Mall
 
 # Eki stamps
 
