@@ -136,6 +136,7 @@ If you're only going to Tokyo, a day trip out to Kamakura is highly recommended 
 
 # Other recommendations
 Bar High Five, Gen Yamamoto
+Omohara Beer Forest
 
 
 # Train stamps
