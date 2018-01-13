@@ -109,13 +109,16 @@ TODO: add everything else that I keep meaning to!
 
 - Imperial Palace
 - Tsukiji
-- Ghibli
+- Ghibli museum
 - Odaiba (argh)
 - Kappabashi
+- Go up the Metropolitan Government Building
 
 ## Gardens
 - Rikugien
 - Shinjuku
+- Ueno
+- Inokashira (if out Ghibli way)
 
 ## Temples
 
