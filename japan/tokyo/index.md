@@ -47,6 +47,8 @@ Generally, most of my favourite areas are over on the West, and that's reflected
 
 * TODO - Airbnb
 
+* TODO - Park Hyatt
+
 ## Bars
 
 ### Coins Bar, Shibuya
@@ -69,6 +71,8 @@ Stumbled across this after wandering through the vintage shops in Koenji, and it
 
 ### Watering Hole, Shinjuku
 Great little spot in Shinjuku. Favourites included Boxing Cat brewery.
+
+* 8bit cafe
 
 
 ## Food
@@ -105,6 +109,11 @@ This ramen place was always the straight-off-the-plane stop on early trips to Ja
 #### Yoshinoya (everywhere)
 Not any kind of classy dining, but if you're out and about and wanting a quick, cheap and tasty lunch, you can always dive into a Yoshinoya. A staple fast food option, I usually go for the beef bowl with a raw egg (try it, honestly) and spring onions.
 
+#### Snacks! (everywhere)
+If you ever need a really quick snack, jump into a 7-11, Lawson, Family Mart etc. They have all kinds of onigiri and cold boxes in the fridges that you can have heated up for you (or some have microwaves that you can use), or ask for a chashuman (pork bun/bao) or some yakitori skewers at the counter. Snack food is everywhere - if you're going on a train journey grab a bento box at the station (known as ekiben).
+
+* Food courts
+
 TODO: add everything else that I keep meaning to!
 
 # Shops - TODO
@@ -122,15 +131,19 @@ TODO: add everything else that I keep meaning to!
 # Things to do in Tokyo  - TODO
 
 ## Gardens
+Take mosquito repellent in summer!
+
 - Rikugien
 - Shinjuku
-- Ueno
+- Ueno (& zoo)
 - Inokashira (if out Ghibli way)
 - Imperial Palace (meh)
 
 ## Temples
 
-### Meiji Jingu
+* Meiji Jingu (go at quiet times)
+* Sensō-ji (touristy)
+
 
 TODO: fill in all the obvious good stuff
 
@@ -140,7 +153,7 @@ TODO: fill in all the obvious good stuff
 I haven't been here since 2008, but the ticket system is still the same - basically it's easiest to **book before you leave your own country!**. The information is all held [here](http://www.ghibli-museum.jp/en/ticket-information/). When I visited, the museum itself was exactly as charming as you'd imagine, and was a great day out. Getting there was also one of my first ventures outside of the city centre, and walking there through Inokashira Park were great to get an insight into more local life. Don't worry too much about raiding the gift shop as Ghibli merch can be found all over Tokyo/Japan.
 
 ### Odaiba
-*shudders*. I always seem to have a crap time on Odaiba. It's reasonably expensive to get to, always rains, I always get lost, the food options are crap, and something about the place is just... frustrating as hell. You'll possibly find yourself there for a conference, or because you're a fan of gundam (there's an enormous one outside DiverCity). You may stay for the big (but very dated now) arcade at Palette Town (by the Daikanransha big wheel) where you can ride around on giant pandas. There's also a mini Statue of Liberty. A quite interesting Toyota showcase and 'car theme park'. And [Venus Fort](https://www.google.co.uk/search?q=venus+fort&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd0rX2hNzYAhVMyaQKHdJkCI0Q_AUICygC&biw=1344&bih=776) (a shopping centre 'designed for ladies' that resembles an italian city, complete with balconies and sunset sky and fountains)... but good luck ever finding your way out of that place again! In a city that's chock full of authentic culture, Odaiba stands out as an utterly bizzare yet intriguing place. Go if you'd like a taste of fake weirdness and getting trapped in confusing buildings.
+*shudders*. I always seem to have a crap time on Odaiba. It's reasonably expensive to get to, always rains, I always get lost, the food options are crap, and something about the place is just... frustrating as hell. You'll possibly find yourself there for a conference, or because you're a fan of gundam (there's an enormous one outside DiverCity). You may stay for the big (but very dated now) arcade at Palette Town (by the Daikanransha big wheel) where you can ride around on giant pandas. Or the Fuji TV building architecture. There's also a mini Statue of Liberty. A quite interesting Toyota showcase and 'car theme park'. And [Venus Fort](https://www.google.co.uk/search?q=venus+fort&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd0rX2hNzYAhVMyaQKHdJkCI0Q_AUICygC&biw=1344&bih=776) (a shopping centre 'designed for ladies' that resembles an italian city, complete with balconies and sunset sky and fountains)... but good luck ever finding your way out of that place again! In a city that's chock full of authentic culture, Odaiba stands out as an utterly bizzare yet intriguing place. Go if you'd like a taste of fake weirdness and getting trapped in confusing buildings.
 
 ### Tsukiji (fish market)
 In the course of updating this I've just seen that Tsukiji is moving! It was the world's biggest fish market, and on and off throughout the years you were maybe able to watch the auctions of enormous tuna but were definitely able to wander through endless stalls of incredible sea produce before grabbing breakfast at one of the handful of sushi bars. I would have said that this is one to do if you're jetlagged and awake at a ridiculous time (coming from the UK it's easier to do on one of your first couple of days), but seeing as it's moving you'll have to put that visit on hold.
@@ -148,8 +161,17 @@ In the course of updating this I've just seen that Tsukiji is moving! It was the
 ### Kappabashi
 Kappabashi Dōgugai is a long street that houses shops either side of the road that will sell you everything you need to kit out your kitchen business (or your kitchen back home if you're savvy with luggage options). Getting there isn't massively well documented because you can approach it from so many angles, but we tend to head to Tawaramachi station and walk west for 2/3 blocks until you hit the road - then turn right. You can also get to it from Asakusa. The second last time I went, there was a Kappabashi Dōgugai song playing over street speakers that has been stuck in my head ever since. It wasn't playing last time. The web doesn't seen to have it recorded. If you hear it, please record it so that I know it wasn't just in my head.
 
+- Neon in Shinjuku
+- Shibuya crossing
+- Hachiko
 - Go up the Metropolitan Government Building
 - Harajuku
+- Akihabara (Akiba)
+- Arcades
+- Pachinko
+- Watch TV
+- Smoking area signs
+- Architecture
 
 # Day trips
 
