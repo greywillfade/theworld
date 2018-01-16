@@ -4,17 +4,22 @@ This is an introduction to Tokyo, based on the times I've been there since 2008.
 
 The disclaimer here is that Tokyo is vast and ever-changing, so these recommendations may date very quickly! Also, as great as some spots are, you'll find your own just by wandering. There's so much to see and do and some of the things that you just stumble across can be the most special.
 
-Most things have got much, much better at being English-speaking friendly but some bits can still be a bit overwhelming. I hope that this helps.
+Most areas have got much more support for English speakers over the years, but some parts can still be a bit overwhelming on your first trip. Everywhere is very friendly though, and a little bit of language goes a long way
 
 Last visited September 2017.
 
 ## The basics
 
 ### Get a local SIM
-Check online with companies like [b-mobile](http://www.bmobile.ne.jp/english/) to buy a local SIM card and get it delivered to the airport post office. The offerings change so rapidly that it's not worth me namechecking any, but do your own research. It's extremely simple to collect things at the airport, and a SIM will likely save you tons of cash if you're there for any amount of time. The first time I went to Japan I used a printed street atlas and failed to find tons of things - Google Maps will make your life so much easier.
+Check online with companies like [b-mobile](http://www.bmobile.ne.jp/english/) to buy a local SIM card and get it delivered to the airport post office (there's one at Narita and one at Haneda Domestic, but check opening hours against your flight landing time). It's extremely simple to collect things at the airport, and a SIM will likely save you tons of cash if you're there for any amount of time. Alternatively you can pick them up from airport shops, or from electronics stores like Bic Camera in the city.
+
+The offerings change so rapidly that it's not worth me namechecking too many, but b-mobile have served me well over the last couple of trips with a 5GB/21 day plan, and before that they had an unlimited (but slow after high usage) 14 day option. The first time I went to Japan I used a printed street atlas and failed to find tons of things - Google Maps will make your life so much easier!
 
 ### Heading into Tokyo from Narita
-The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. An alternative is the Narita Express train (NEX) which you can catch from directly under the airport. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
+The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. An alternative is the Narita Express train (NEX) which you can catch from directly under the airport, and is what we use now as it's faster and runs more regularly. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
+
+### Heading into Tokyo from Haneda
+Haneda is much closer to the city, and serves both 'sides' of Tokyo - the Keikyu Line towards Shinagawa (for Shinjuku/Shibuya) and the monorail takes the same amount of time to go towards Hamamatsucho (for Tokyo/Ueno).
 
 ### Trains
 Japan's trains are run by different networks. If you're thinking about taking any longer distance trains (outside of the airport trip) you may be better off investigating the Japan Rail Pass (a rail pass for overseas visitors). This lets you inclusively travel on selected bullet trains (some types are not included), on the underground network, and other things run by Japan Rail for the duration of your pass. Buy a voucher for the pass in advance, sent to you at home, which you then redeem at JR stations once you get to Japan. You also must get a Temporary Visitor stamp in your passport on arrival.
@@ -35,6 +40,12 @@ Generally, most of my favourite areas are over on the West, and that's reflected
 • Cerulean Tower, Shibuya
 
 * Hotel Century Southern Tower, Shinjuku
+
+* TODO - Palace Hotel Tokyo
+
+* TODO - Remm Akihabara
+
+* TODO - Airbnb
 
 ## Bars
 
@@ -96,29 +107,26 @@ Not any kind of classy dining, but if you're out and about and wanting a quick, 
 
 TODO: add everything else that I keep meaning to!
 
-# Shops
+# Shops - TODO
+
+- Tokyu Hands
+- Don Quijote
 - Kiddyland
+- Yamashiroya
 - Nakano Broadway
 - Pokemon Center Mega Tokyo
 - Mandarake
 - Tower Records
 - Super Potato
 
-
-# Things to do
-
-- Imperial Palace
-- Tsukiji
-- Ghibli museum
-- Odaiba (argh)
-- Kappabashi
-- Go up the Metropolitan Government Building
+# Things to do in Tokyo  - TODO
 
 ## Gardens
 - Rikugien
 - Shinjuku
 - Ueno
 - Inokashira (if out Ghibli way)
+- Imperial Palace (meh)
 
 ## Temples
 
@@ -126,17 +134,37 @@ TODO: add everything else that I keep meaning to!
 
 TODO: fill in all the obvious good stuff
 
+## Other places in the city
+
+### Ghibli museum
+I haven't been here since 2008, but the ticket system is still the same - basically it's easiest to **book before you leave your own country!**. The information is all held [here](http://www.ghibli-museum.jp/en/ticket-information/). When I visited, the museum itself was exactly as charming as you'd imagine, and was a great day out. Getting there was also one of my first ventures outside of the city centre, and walking there through Inokashira Park were great to get an insight into more local life. Don't worry too much about raiding the gift shop as Ghibli merch can be found all over Tokyo/Japan.
+
+### Odaiba
+*shudders*. I always seem to have a crap time on Odaiba. It's reasonably expensive to get to, always rains, I always get lost, the food options are crap, and something about the place is just... frustrating as hell. You'll possibly find yourself there for a conference, or because you're a fan of gundam (there's an enormous one outside DiverCity). You may stay for the big (but very dated now) arcade at Palette Town (by the Daikanransha big wheel) where you can ride around on giant pandas. There's also a mini Statue of Liberty. A quite interesting Toyota showcase and 'car theme park'. And [Venus Fort](https://www.google.co.uk/search?q=venus+fort&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd0rX2hNzYAhVMyaQKHdJkCI0Q_AUICygC&biw=1344&bih=776) (a shopping centre 'designed for ladies' that resembles an italian city, complete with balconies and sunset sky and fountains)... but good luck ever finding your way out of that place again! In a city that's chock full of authentic culture, Odaiba stands out as an utterly bizzare yet intriguing place. Go if you'd like a taste of fake weirdness and getting trapped in confusing buildings.
+
+### Tsukiji (fish market)
+In the course of updating this I've just seen that Tsukiji is moving! It was the world's biggest fish market, and on and off throughout the years you were maybe able to watch the auctions of enormous tuna but were definitely able to wander through endless stalls of incredible sea produce before grabbing breakfast at one of the handful of sushi bars. I would have said that this is one to do if you're jetlagged and awake at a ridiculous time (coming from the UK it's easier to do on one of your first couple of days), but seeing as it's moving you'll have to put that visit on hold.
+
+### Kappabashi
+Kappabashi Dōgugai is a long street that houses shops either side of the road that will sell you everything you need to kit out your kitchen business (or your kitchen back home if you're savvy with luggage options). Getting there isn't massively well documented because you can approach it from so many angles, but we tend to head to Tawaramachi station and walk west for 2/3 blocks until you hit the road - then turn right. You can also get to it from Asakusa. The second last time I went, there was a Kappabashi Dōgugai song playing over street speakers that has been stuck in my head ever since. It wasn't playing last time. The web doesn't seen to have it recorded. If you hear it, please record it so that I know it wasn't just in my head.
+
+- Go up the Metropolitan Government Building
+- Harajuku
+
 # Day trips
 
 ### Kamakura
 If you're only going to Tokyo, a day trip out to Kamakura is highly recommended to see a bit more of the country. There are all kinds of temples, an enormous buddha, a really cute little train, but you'll also probably enjoy just walking through the buildings. The beach isn't a *beach* beach (don't turn up in your bikini), but worth a wander to go and see some fishing boats.
 
 ### Hakone / Fujikawaguchiko
-
+TODO
 
 # Other recommendations
-Bar High Five, Gen Yamamoto
+Bar High Five
+Gen Yamamoto
 Omohara Beer Forest
+Robot Restaurant
+
 
 
 # Train stamps
