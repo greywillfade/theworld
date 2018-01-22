@@ -112,9 +112,16 @@ Not any kind of classy dining, but if you're out and about and wanting a quick, 
 #### Snacks! (everywhere)
 If you ever need a really quick snack, jump into a 7-11, Lawson, Family Mart etc. They have all kinds of onigiri and cold boxes in the fridges that you can have heated up for you (or some have microwaves that you can use), or ask for a chashuman (pork bun/bao) or some yakitori skewers at the counter. Snack food is everywhere - if you're going on a train journey grab a bento box at the station (known as ekiben).
 
+#### Shin (Shinjuku)
+
 * Food courts
 
 TODO: add everything else that I keep meaning to!
+
+# Cafes
+
+#### Bar and Cafe WOW (Harajuku)
+I was taken to this little cafe rather than finding it, and it turned out to be just the kind of cozy spot that you'd like to escape into on a snowy day. They do a selection of teas including jasmine. [wowcafe.jp](http://wowcafe.jp)
 
 # Shops - TODO
 
