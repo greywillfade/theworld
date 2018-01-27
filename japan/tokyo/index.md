@@ -221,3 +221,6 @@ Just inside the main entrance, on the left as you're coming in (outside the tick
 
 ### Shinagawa
 In the middle of the main seat reservation office, against the window as you look out towards the central entrance gates.
+
+### Yotsuya
+Inside the ticket office by the Yotsuya exit
