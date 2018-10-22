@@ -1,19 +1,8 @@
 # Tokyo
 
-This is an introduction to Tokyo, based on the times I've been there since 2008. I'll kick off with some general tips (most of which apply to all of Japan, but Tokyo's usually the starting point). If you want specific place recommendations, skip ahead.
-
-The disclaimer here is that Tokyo is vast and ever-changing, so these recommendations may date very quickly! Also, as great as some spots are, you'll find your own just by wandering. There's so much to see and do and some of the things that you just stumble across can be the most special.
-
-Most areas have got much more support for English speakers over the years, but some parts can still be a bit overwhelming on your first trip. Everywhere is very friendly though, and a little bit of language goes a long way
-
-Last visited September 2017.
+Last visited Summer 2018.
 
 ## The basics
-
-### Get a local SIM
-Check online with companies like [b-mobile](http://www.bmobile.ne.jp/english/) to buy a local SIM card and get it delivered to the airport post office (there's one at Narita and one at Haneda Domestic, but check opening hours against your flight landing time). It's extremely simple to collect things at the airport, and a SIM will likely save you tons of cash if you're there for any amount of time. Alternatively you can pick them up from airport shops, or from electronics stores like Bic Camera in the city.
-
-The offerings change so rapidly that it's not worth me namechecking too many, but b-mobile have served me well over the last couple of trips with a 5GB/21 day plan, and before that they had an unlimited (but slow after high usage) 14 day option. The first time I went to Japan I used a printed street atlas and failed to find tons of things - Google Maps will make your life so much easier!
 
 ### Heading into Tokyo from Narita
 The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. An alternative is the Narita Express train (NEX) which you can catch from directly under the airport, and is what we use now as it's faster and runs more regularly. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
@@ -21,33 +10,39 @@ The first two times we caught the Airport Limousine Bus, as it went straight to 
 ### Heading into Tokyo from Haneda
 Haneda is much closer to the city, and serves both 'sides' of Tokyo - the Keikyu Line towards Shinagawa (for Shinjuku/Shibuya) and the monorail takes the same amount of time to go towards Hamamatsucho (for Tokyo/Ueno).
 
-### Trains
-Japan's trains are run by different networks. If you're thinking about taking any longer distance trains (outside of the airport trip) you may be better off investigating the Japan Rail Pass (a rail pass for overseas visitors). This lets you inclusively travel on selected bullet trains (some types are not included), on the underground network, and other things run by Japan Rail for the duration of your pass. Buy a voucher for the pass in advance, sent to you at home, which you then redeem at JR stations once you get to Japan. You also must get a Temporary Visitor stamp in your passport on arrival.
 
-It's also worth reading up on the different companies, as this will remove some of your confusion. In Tokyo you'll want a Tokyo Metro subway map as well as a JR one! Stations don't connect, so at a station that has both systems you may need to resurface and go back down into the other network.
-
-There are english buttons on the train screens if you need, but the principle is you pay the price shown on the map (top for adult, bottom is child) for a single trip to your destination. (If you're not buying any kind of pass)
+## Where to stay
 
 ### Areas
-Generally, most of my favourite areas are over on the West, and that's reflected in these recommendations! Others will have a different preference. I've spent a lot of time in Shibuya and Shinjuku and they feel very homely to me - I can never wait to get back there - however other people find them overwhelmingly touristy and too full-on. If you want to stay over that way but slightly further out, I'd recommend looking at areas like Koenji or Shimokitazawa - both of which are very trendy.
+Ask different people, and you'll get different answers to this. Generally, most of my favourite areas are over on the West, and that's reflected in these recommendations. Others will have a different preference.
 
-## Places to stay
+I've spent a lot of time in Shibuya, Shinjuku, Yoyogi and they feel very homely to me - I can never wait to get back there - however other people find them overwhelmingly touristy and too full-on. If you want to stay over that way but slightly further out, I'd recommend looking at areas like Koenji or Shimokitazawa - both of which have had huge booms in popularity over recent years but are still seen as a bit more trendy and hipster. This year I also stayed more centrally, in Iidabashi, which was initially for the convenience of a daily commute but I actually found it to be a pretty great hub for getting around. I'm personally less keen on the Western side, mainly because I tend to spend lots of time over in the East. I also find many of the hotel locations in areas like Tokyo Station a bit more dull (although there are of course exceptions).
 
-* Excel Hotel Tokyu, Shibuya - excellent location above the station (and crossing), but had a really bad experience here last time on our honeymoon on a return stay. Won't stay here again because of it.
+Below I've included some specific places I've stayed over the years, from pricey to more affordable:
 
-* Shinjuku Granbell
+#### Palace Hotel Tokyo
+We stayed here with free reward nights, and it's a splurge hotel. The rooms are beautiful and there are some lovely touches for things they provide. As the name suggests, it's right on the side of the Imperial Palace which is a lovely view (we had a balcony and loved standing outside even though it was winter!) and is very close to Tokyo station. However it's not my favourite part of the city, so whilst it's nice for a short stay I wouldn't want to base myself here. 
 
-• Cerulean Tower, Shibuya
+#### Excel Hotel Tokyu, Shibuya
+We've stayed here a couple of times. Pretty standard business hotel that has an excellent location above the station (and crossing), but we had a disappointingly (and uncharacteristic in Japan) poor experience here on our honeymoon. Won't stay here again because of it, but as a hotel it's a decent enough place to stay if you want the views (if a bit overpriced).
 
-* Hotel Century Southern Tower, Shinjuku
+#### Cerulean Tower, Shibuya
+The first place we ever stayed in Tokyo, and somewhere we happily revisited a couple of years later. It's close to Shibuya station and rooms have fantastic views, but... at the time of writing I don't think it's been updated in about 10 years. It's again a pretty standard business hotel, nice but not hugely memorable, and still charges a pretty steep price. 
 
-* TODO - Palace Hotel Tokyo
+#### Hotel Century Southern Tower, Shinjuku
+Another place to stay for the views, this is yet another businessy hotel with perfectly adequate rooms and a pretty great location (just south of the enormous JR Shinjuku station). Again it's becoming a bit dated and isn't a 'special' hotel, but a safe enough bet.
 
-* TODO - Remm Akihabara
+#### Shinjuku Granbell
+Mid-range is the Granbell, of which there are a few in Tokyo. We stayed in the Shinjuku one, which is a little bit of a walk from Shinjuku main JR station. We'd booked a pretty standard room as we were only there for a couple of nights, but were upgraded to the [luxury designer double](http://www.granbellhotel.jp/en/shinjuku/room/m_double/) which was a really lovely room. Note that some of the other rooms are pretty small - there'll be a theme with some of the other hotels after this!
 
-* TODO - Airbnb
+#### Remm Akihabara
+We stayed here for just under a week in January 2018. Just outside one of the Akiba station exits, we chose this to be near some friends who were staying around the corner in an Airbnb. The rooms were clean, very functional, and mid-range in price, however be mindful that this was another small one for two people. Excellent blackout blinds though, and no noise whatsoever from the station below.
 
-* TODO - Park Hyatt
+#### Airbnb
+This year Japan changed some legislation which caused a huge shakeup of the Airbnb properties. We stayed in a lovely one near Yoyogi but it's no longer currently available and I suspect that played a part. However, in general you can find some _brilliant_ options available in Japan. If you're after staying somewhere a bit more local, or don't need the trappings of a hotel then definitely give Airbnb a look.
+
+* TODO - APAs (Shinjuku Gyoenmae, Iidabashi)
+* TODO - Belken Hotel
 
 ## Bars
 
@@ -73,6 +68,7 @@ Stumbled across this after wandering through the vintage shops in Koenji, and it
 Great little spot in Shinjuku. Favourites included Boxing Cat brewery.
 
 * 8bit cafe
+* TODO - Park Hyatt
 
 
 ## Food
@@ -160,7 +156,9 @@ TODO: fill in all the obvious good stuff
 I haven't been here since 2008, but the ticket system is still the same - basically it's easiest to **book before you leave your own country!**. The information is all held [here](http://www.ghibli-museum.jp/en/ticket-information/). When I visited, the museum itself was exactly as charming as you'd imagine, and was a great day out. Getting there was also one of my first ventures outside of the city centre, and walking there through Inokashira Park were great to get an insight into more local life. Don't worry too much about raiding the gift shop as Ghibli merch can be found all over Tokyo/Japan.
 
 ### Odaiba
-*shudders*. I always seem to have a crap time on Odaiba. It's reasonably expensive to get to, always rains, I always get lost, the food options are crap, and something about the place is just... frustrating as hell. You'll possibly find yourself there for a conference, or because you're a fan of gundam (there's an enormous one outside DiverCity). You may stay for the big (but very dated now) arcade at Palette Town (by the Daikanransha big wheel) where you can ride around on giant pandas. Or the Fuji TV building architecture. There's also a mini Statue of Liberty. A quite interesting Toyota showcase and 'car theme park'. And [Venus Fort](https://www.google.co.uk/search?q=venus+fort&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd0rX2hNzYAhVMyaQKHdJkCI0Q_AUICygC&biw=1344&bih=776) (a shopping centre 'designed for ladies' that resembles an italian city, complete with balconies and sunset sky and fountains)... but good luck ever finding your way out of that place again! In a city that's chock full of authentic culture, Odaiba stands out as an utterly bizzare yet intriguing place. Go if you'd like a taste of fake weirdness and getting trapped in confusing buildings.
+*shudders*. I always seem to have a crap time on Odaiba. It's reasonably expensive to get to (not much, just in the scheme of other trips), always rains, I always get lost, the food options are crap, and something about the place is just... frustrating as hell. You'll possibly find yourself there for a conference, or because you're a fan of gundam (there's an enormous one outside DiverCity). You may stay for the big (but very dated now) arcade at Palette Town (by the Daikanransha big wheel) where you can ride around on giant pandas. Or the Fuji TV building architecture. There's also a mini Statue of Liberty. A quite interesting Toyota showcase and 'car theme park'. And [Venus Fort](https://www.google.co.uk/search?q=venus+fort&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd0rX2hNzYAhVMyaQKHdJkCI0Q_AUICygC&biw=1344&bih=776) (a shopping centre 'designed for ladies' that resembles an italian city, complete with balconies and sunset sky and fountains)... but good luck ever finding your way out of that place again! In a city that's chock full of authentic culture, Odaiba stands out as an utterly bizzare yet intriguing place. Go if you'd like a taste of fake weirdness and getting trapped in confusing buildings.
+
+As an amendment to this I went to Odaiba for the 海の日 festival on the beach where thousands of lanterns were lit. It was _lovely_ and I had a wonderful, relaxed time for the first time ever. Perhaps there is hope!
 
 ### Tsukiji (fish market)
 In the course of updating this I've just seen that Tsukiji is moving! It was the world's biggest fish market, and on and off throughout the years you were maybe able to watch the auctions of enormous tuna but were definitely able to wander through endless stalls of incredible sea produce before grabbing breakfast at one of the handful of sushi bars. I would have said that this is one to do if you're jetlagged and awake at a ridiculous time (coming from the UK it's easier to do on one of your first couple of days), but seeing as it's moving you'll have to put that visit on hold.
