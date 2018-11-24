@@ -87,7 +87,13 @@ Always seemed to be empty when we passed, which is a shame as some of the dumpli
 #### Genki Sushi (Shibuya)
 Popular kaiten option in Shibuya, which also has a sister shop nearby. Order from a tablet and it'll shoot out from the kitchen to where you are. Possible to change the screen to English if you need. Most things are cheap, and we've had fun drunken times here ordering too much crappy sake (leading to a salmon/fried chicken/carbonara sushi experience which I maintain *did* work!).
 
-#### Kyushu Jangara
+#### Roast Beef Ohno (Akihabara - donburi)
+Raw wagyu donburi which looks bizarre in photos but it utterly delicious. Tiny place, I came alone and late so didn't have a problem but other times queues are long.
+
+#### Butayaro (Akiba/Ochanomizu)
+BBQ meat donburi. Vending machine ordering.
+
+#### Kyushu Jangara (Akihabara, Harajuku... - ramen)
 A chain, found in places like Harajuku and Akiba amongst others. Favourites are the Bonshan (tonkotsu) and Kobonshan (garlic oil tonkotsu) with the soft boiled egg and menma. Beware, the large beers are LARGE.
 
 #### Numazuko sushi (Shinjuku)
@@ -108,11 +114,15 @@ Not any kind of classy dining, but if you're out and about and wanting a quick, 
 #### Snacks! (everywhere)
 If you ever need a really quick snack, jump into a 7-11, Lawson, Family Mart etc. They have all kinds of onigiri and cold boxes in the fridges that you can have heated up for you (or some have microwaves that you can use), or ask for a chashuman (pork bun/bao) or some yakitori skewers at the counter. Snack food is everywhere - if you're going on a train journey grab a bento box at the station (known as ekiben).
 
-#### Shin (Shinjuku)
+#### Shin (Shinjuku - udon)
+Quite possibly my favourite udon ever. Get the warm egg, black pepper and butter one, with extra beef. Tiny place, just a few counter seats and a couple of tables, and gets incredibly busy. We went once in a blizzard and still had a tiny wait, but at more 'normal' times we've had to wait 30mins-1hr stood on the street. Worth it.
 
-* Food courts
+#### Food courts
+Tokyu Foodshow Shibuya, Isetan Shinjuku etc have extensive food courts in the basement. There are grocery sections but also tons of 'fast food' (karaage, siu mai, gyoza, yakitori... etc). Try to find one of the designated standing eating spots (they are there!) to avoid being the awful gaijin eating on the street outside.
+
 
 TODO: add everything else that I keep meaning to!
+
 
 # Cafes
 
