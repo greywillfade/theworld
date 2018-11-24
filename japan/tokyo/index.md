@@ -70,13 +70,20 @@ Great little spot in Shinjuku. Favourites included Boxing Cat brewery.
 * 8bit cafe
 * TODO - Park Hyatt
 * Bar High Five
-* Gen Yamamoto
 * Omohara Beer Forest
+* acca Koenji
+* Star Bar
+* (Gen Yamamoto)
 
 
 ## Food
 
 With vending machine places, put your money in first, press things to match the food you've probably seen in the window or on a sign, take the tickets and pass them to the chef or whoever comes to the table.
+
+#### Tsujihan (Tokyo)
+
+#### Hashidaya (Shibuya - chicken)
+I still dream about the 'tori ikura' (yolk) I had here. This is a chicken place. They do chicken sashimi, oyakodon and more. It's amazing. It also has no English menu and they don't speak English so not one for the fainthearted but it's SO GOOD.
 
 #### Han No Daidokoro (Shibuya)
 Yakiniku. Really friendly staff and a cozy atmosphere make this a great experience. The Kobe beef was excellent, but really enjoyed the cucumber and kimchi too.
@@ -90,20 +97,35 @@ Always seemed to be empty when we passed, which is a shame as some of the dumpli
 #### Genki Sushi (Shibuya)
 Popular kaiten option in Shibuya, which also has a sister shop nearby. Order from a tablet and it'll shoot out from the kitchen to where you are. Possible to change the screen to English if you need. Most things are cheap, and we've had fun drunken times here ordering too much crappy sake (leading to a salmon/fried chicken/carbonara sushi experience which I maintain *did* work!).
 
+#### Udon Yamacho うどん 山長 (Ebisu - udon)
+
+#### Tonkatsu Tonki (Meguro)
+
 #### Roast Beef Ohno (Akihabara - donburi)
 Raw wagyu donburi which looks bizarre in photos but it utterly delicious. Tiny place, I came alone and late so didn't have a problem but other times queues are long.
 
-#### Butayaro (Akiba/Ochanomizu)
+#### Butayaro (Akiba/Ochanomizu - donburi)
 BBQ meat donburi. Vending machine ordering.
 
 #### Kyushu Jangara (Akihabara, Harajuku... - ramen)
 A chain, found in places like Harajuku and Akiba amongst others. Favourites are the Bonshan (tonkotsu) and Kobonshan (garlic oil tonkotsu) with the soft boiled egg and menma. Beware, the large beers are LARGE.
+
+#### Butayaro (Kanda - donburi)
+Classic small place, one dish, different sizes. This is just bbq pork donburi in an unrefined spot up some stairs, but excellent eats.
+
+#### Shin (Shinjuku - udon)
+Quite possibly my favourite udon ever. Get the warm egg, black pepper and butter one, with extra beef. Tiny place, just a few counter seats and a couple of tables, and gets incredibly busy. We went once in a blizzard and still had a tiny wait, but at more 'normal' times we've had to wait 30mins-1hr stood on the street. Worth it.
+
+#### 餃子の福包 新宿店 (gyoza)
+We tried going here once but it was shut, so I was very happy to come across it again completely by chance when I stayed opposite on another trip. At times lines get long, but if you can find a quiet time this is a great lunch option.
 
 #### Numazuko sushi (Shinjuku)
 Mid-range sushi with a good selection. Often has a line if you're not there early.
 
 #### Harajuku Gyoza-ro (Harajuku)
 Very cheap, but excellent. Basically serve grilled or steamed gyoza and a few sides. Small place and gets very busy, but open 24 hours!
+
+#### Sakura Tei (Harajuku - okonomiyaki)
 
 #### Joto curry Shibuya (上等カレー 渋谷本店)
 If you want fast food Japanese curry you'll probably head to one of the many, many CoCo Curry shops that you'll find. However if in Shibuya, Joto is a slight step up, and gives a great current (with a few variants and options). Order from the vending machine.
@@ -117,9 +139,6 @@ Not any kind of classy dining, but if you're out and about and wanting a quick, 
 #### Snacks! (everywhere)
 If you ever need a really quick snack, jump into a 7-11, Lawson, Family Mart etc. They have all kinds of onigiri and cold boxes in the fridges that you can have heated up for you (or some have microwaves that you can use), or ask for a chashuman (pork bun/bao) or some yakitori skewers at the counter. Snack food is everywhere - if you're going on a train journey grab a bento box at the station (known as ekiben).
 
-#### Shin (Shinjuku - udon)
-Quite possibly my favourite udon ever. Get the warm egg, black pepper and butter one, with extra beef. Tiny place, just a few counter seats and a couple of tables, and gets incredibly busy. We went once in a blizzard and still had a tiny wait, but at more 'normal' times we've had to wait 30mins-1hr stood on the street. Worth it.
-
 #### Food courts
 Tokyu Foodshow Shibuya, Isetan Shinjuku etc have extensive food courts in the basement. There are grocery sections but also tons of 'fast food' (karaage, siu mai, gyoza, yakitori... etc). Try to find one of the designated standing eating spots (they are there!) to avoid being the awful gaijin eating on the street outside.
 
@@ -132,6 +151,12 @@ TODO: add everything else that I keep meaning to!
 #### Bar and Cafe WOW (Harajuku)
 I was taken to this little cafe rather than finding it, and it turned out to be just the kind of cozy spot that you'd like to escape into on a snowy day. They do a selection of teas including jasmine. [wowcafe.jp](http://wowcafe.jp)
 
+#### Shiro-Hige's Cream Puff Factory
+
+#### Nana's green tea
+
+#### ON THE WAY, coffee & cupcake
+
 # Shops - TODO
 
 - Tokyu Hands
@@ -143,6 +168,13 @@ I was taken to this little cafe rather than finding it, and it turned out to be 
 - Mandarake
 - Tower Records
 - Super Potato
+- Loft
+- LaForet Harajuku
+- Muji Hamamatsucho
+- Sanrioworld Ginza
+- Bside label
+- Disk Union
+- Beams
 
 # Things to do in Tokyo  - TODO
 
@@ -154,6 +186,8 @@ Take mosquito repellent in summer!
 - Ueno (& zoo)
 - Inokashira (if out Ghibli way)
 - Imperial Palace (meh)
+- Hamarikyu Gardens
+- Koishikawa Korakuen Garden
 
 ## Temples
 
@@ -193,8 +227,13 @@ Kappabashi Dōgugai is a long street that houses shops either side of the road t
 - Shimokita
 - Koenji
 - Nakano
+- Nakagin Capsule Tower
 
 # Day trips
+
+### Enoshima
+
+### Yokohama
 
 ### Kamakura
 If you're only going to Tokyo, a day trip out to Kamakura is highly recommended to see a bit more of the country. There are all kinds of temples, an enormous buddha, a really cute little train, but you'll also probably enjoy just walking through the buildings. The beach isn't a *beach* beach (don't turn up in your bikini), but worth a wander to go and see some fishing boats.
