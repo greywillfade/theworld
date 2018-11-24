@@ -69,6 +69,9 @@ Great little spot in Shinjuku. Favourites included Boxing Cat brewery.
 
 * 8bit cafe
 * TODO - Park Hyatt
+* Bar High Five
+* Gen Yamamoto
+* Omohara Beer Forest
 
 
 ## Food
@@ -171,7 +174,7 @@ I haven't been here since 2008, but the ticket system is still the same - basica
 As an amendment to this I went to Odaiba for the 海の日 festival on the beach where thousands of lanterns were lit. It was _lovely_ and I had a wonderful, relaxed time for the first time ever. Perhaps there is hope!
 
 ### Tsukiji (fish market)
-In the course of updating this I've just seen that Tsukiji is moving! It was the world's biggest fish market, and on and off throughout the years you were maybe able to watch the auctions of enormous tuna but were definitely able to wander through endless stalls of incredible sea produce before grabbing breakfast at one of the handful of sushi bars. I would have said that this is one to do if you're jetlagged and awake at a ridiculous time (coming from the UK it's easier to do on one of your first couple of days), but seeing as it's moving you'll have to put that visit on hold.
+I haven't been to the market since it moved locations. It was the world's biggest fish market, and on and off throughout the years you were maybe able to watch the auctions of enormous tuna but were definitely able to wander through endless stalls of incredible sea produce before grabbing breakfast at one of the handful of sushi bars. One to do if you're jetlagged and awake at a ridiculous time (coming from the UK it's easier to do on one of your first couple of days), but can't vouch for what it's like now.
 
 ### Kappabashi
 Kappabashi Dōgugai is a long street that houses shops either side of the road that will sell you everything you need to kit out your kitchen business (or your kitchen back home if you're savvy with luggage options). Getting there isn't massively well documented because you can approach it from so many angles, but we tend to head to Tawaramachi station and walk west for 2/3 blocks until you hit the road - then turn right. You can also get to it from Asakusa. The second last time I went, there was a Kappabashi Dōgugai song playing over street speakers that has been stuck in my head ever since. It wasn't playing last time. The web doesn't seen to have it recorded. If you hear it, please record it so that I know it wasn't just in my head.
@@ -187,6 +190,9 @@ Kappabashi Dōgugai is a long street that houses shops either side of the road t
 - Watch TV
 - Smoking area signs
 - Architecture
+- Shimokita
+- Koenji
+- Nakano
 
 # Day trips
 
@@ -195,13 +201,6 @@ If you're only going to Tokyo, a day trip out to Kamakura is highly recommended 
 
 ### Hakone / Fujikawaguchiko
 TODO
-
-# Other recommendations
-Bar High Five
-Gen Yamamoto
-Omohara Beer Forest
-Robot Restaurant
-
 
 
 # Train stamps
