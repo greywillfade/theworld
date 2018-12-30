@@ -18,6 +18,11 @@ Don't go into it blind and expect everyone to understand you, but also don't be 
 ## Take cash
 This may sound stupid, but with many people carrying less cash at home, I've also encountered people who go abroad with nothing but a credit card. If you're going to Japan, I _don't_ advise this. Sure, for many things - shopping, hotels, train tickets, some restaurants, you'll be able to get around absolutely fine on cards. But if you have absolutely none you'll start to notice that you're a bit restricted in some places - smaller shops and restaurants often only take cash, and of course you'll want to hoarde your 100 yen coins for gacha machines!
 
+## Eating
+So much has been written about the abundance of incredible food available to you in Japan. Each region has its own specialities, and you'll have more than enough to keep you busy. Excellent food can be found everywhere from combini snacks, to chains, to Michelin Starred places.
+
+With vending machine places, put your money in first, press things to match the food you've probably seen in the window or on a sign, take the tickets and pass them to the chef or whoever comes to the table.
+
 ## Get a local SIM
 If you're coming from the UK, roaming in Japan tends to be _expensive_. However, you're absolutely going to want data (and not just for all of those Instagram shots) - it's going to be a huge help for maps, getting around on public transport, and translation. The first time I went to Japan I used a printed street atlas and failed to find tons of things - Google Maps will make your life so much easier!
 
