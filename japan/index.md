@@ -38,3 +38,12 @@ For subway systems in places like Tokyo and Osaka there are english buttons on t
 
 ## IC cards
 Big in Japan are prepaid currency cards that you can use to jump on trains, to pay at vending machines, and even in some shops. In Tokyo you'll see [PASMO](https://www.pasmo.co.jp/en/) and [Suica](http://www.jreast.co.jp/e/pass/suica.html), which are essentially the same thing and are very very useful. Again, depending on where you're going bear in mind that these may not be accepted in certain shops, train networks, or geographic areas.
+
+## Trips
+* May 2008
+* September 2010
+* Sep-October 2016
+* Sep-October 2017
+* Jan-February 2018
+* July 2018
+* June 2019
