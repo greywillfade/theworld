@@ -51,4 +51,4 @@ Big in Japan are prepaid currency cards that you can use to jump on trains, to p
 * Sep-October 2017
 * Jan-February 2018
 * July 2018
-* June 2019
+* Nov-Dec 2019
