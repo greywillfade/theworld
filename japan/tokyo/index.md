@@ -1,14 +1,16 @@
 # Tokyo
 
-Last visited Summer 2018.
+Last visited November/December 2019.
 
 ## The basics
 
 ### Heading into Tokyo from Narita
-The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. An alternative is the Narita Express train (NEX) which you can catch from directly under the airport, and is what we use now as it's faster and runs more regularly. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
+The first two times we caught the Airport Limousine Bus, as it went straight to our hotel and let us see some of the countryside on the way. After that we've always caught the train - the [Narita Express](https://www.jreast.co.jp/e/nex/) (N'EX) which you catch from directly under the airport. This is faster and runs more regularly. Both have pros and cons - bear in mind carting large amounts of luggage through enormous, busy, overwhelming stations for lots of changes may not be what you need after a long flight!
 
 ### Heading into Tokyo from Haneda
-Haneda is much closer to the city, and serves both 'sides' of Tokyo - the Keikyu Line towards Shinagawa (for Shinjuku/Shibuya) and the monorail takes the same amount of time to go towards Hamamatsucho (for Tokyo/Ueno).
+Haneda is much closer to the city, and serves both 'sides' of Tokyo easily. Your options are the Keikyu Line towards Shinagawa (for Shinjuku/Shibuya), or the monorail to go towards Hamamatsucho (for Tokyo/Ueno).
+
+Personally, if I have a choice, I'd probably fly in and out of Haneda as it's always been so quick for me.
 
 
 ## Where to stay
@@ -16,7 +18,7 @@ Haneda is much closer to the city, and serves both 'sides' of Tokyo - the Keikyu
 ### Areas
 Ask different people, and you'll get different answers to this. Generally, most of my favourite areas are over on the West, and that's reflected in these recommendations. Others will have a different preference.
 
-I've spent a lot of time in Shibuya, Shinjuku, Yoyogi and they feel very homely to me - I can never wait to get back there - however other people find them overwhelmingly touristy and too full-on. If you want to stay over that way but slightly further out, I'd recommend looking at areas like Koenji or Shimokitazawa - both of which have had huge booms in popularity over recent years but are still seen as a bit more trendy and hipster. This year I also stayed more centrally, in Iidabashi, which was initially for the convenience of a daily commute but I actually found it to be a pretty great hub for getting around. I'm personally less keen on the Western side, mainly because I tend to spend lots of time over in the East. I also find many of the hotel locations in areas like Tokyo Station a bit more dull (although there are of course exceptions).
+I've spent a lot of time in Shibuya, Shinjuku, Yoyogi and they feel very homely to me - I can never wait to get back there - however other people find them overwhelmingly touristy and too full-on. If you want to stay over that way but slightly further out, I'd recommend looking at areas like Koenji or Shimokitazawa - both of which have had huge booms in popularity over recent years but are still seen as a bit more trendy and hipster. I've also stayed twice in Iidabashi/Kagurazaka, which was initially for the convenience of a daily commute but I actually found it to be a pretty great hub for getting around. I'm personally less keen on the Eastern side, mainly because I tend to spend lots of time over in the West. I also find many of the hotel locations in areas like Tokyo Station a bit more dull (although there are of course exceptions).
 
 Below I've included some specific places I've stayed over the years, from pricey to more affordable:
 
@@ -45,7 +47,7 @@ APA Hotels are a widespread budget hotel chain in Japan. I've stayed in the Shin
 Over Tokyo Station way, the Belken is another modern, budget/small room option that's again perfectly decent for solo travellers or people who want something basic. I again stayed here alone, and to be honest preferred APAs, but would have no problem staying here again for a budget option.
 
 #### Airbnb
-This year Japan changed some legislation which caused a huge shakeup of the Airbnb properties. We stayed in a lovely one near Yoyogi but it's no longer currently available and I suspect that played a part. However, in general you can find some _brilliant_ options available in Japan. If you're after staying somewhere a bit more local, or don't need the trappings of a hotel then definitely give Airbnb a look.
+If you're after staying somewhere a bit more local, or don't need the trappings of a hotel then definitely give Airbnb a look. I've stayed in a couple in Tokyo, and they're great to give you the option of things like washing machines and a kitchen if you're staying for a bit longer, plus you can live in slightly more local areas.
 
 
 ## Bars
@@ -128,7 +130,7 @@ BBQ meat donburi. Vending machine ordering. Delicious, and excellent for a hango
 #### Kyushu Jangara (Akihabara, Harajuku... - ramen)
 A chain, found in places like Harajuku and Akiba amongst others. Favourites are the Bonshan (tonkotsu) and Kobonshan (garlic oil tonkotsu) with the soft boiled egg and menma. Beware, the large beers are LARGE.
 
-#### Butayaro (Kanda - donburi)
+#### Butayarou (Ochanomizu - donburi)
 Classic small place, one dish, different sizes. This is just bbq pork donburi in an unrefined spot up some stairs, but excellent eats.
 
 #### Shin (Shinjuku - udon)
@@ -167,7 +169,7 @@ TODO: add everything else that I keep meaning to!
 # Cafes
 
 #### Bar and Cafe WOW (Harajuku)
-I was taken to this little cafe rather than finding it, and it turned out to be just the kind of cozy spot that you'd like to escape into on a snowy day. They do a selection of teas including jasmine. [wowcafe.jp](http://wowcafe.jp)
+I was taken to this little cafe rather than finding it, and it turned out to be just the kind of cozy spot that you'd like to escape into on a snowy day. They do a selection of teas including jasmine. [wowcafe.jp](http://wowcafe.jp). Note: seems to have closed.
 
 #### Shiro-Hige's Cream Puff Factory
 Beautiful, delicious, Totoro cream buns found in an extremely kawaii side street shop. Very instagram-tastic, but also very tasty.
@@ -250,42 +252,19 @@ Kappabashi Dōgugai is a long street that houses shops either side of the road t
 
 # Day trips
 
+### Kamakura
+If you're only going to Tokyo, a day trip out to Kamakura is highly recommended to see a bit more of the country. There are all kinds of temples, an enormous buddha, a really cute little train, but you'll also probably enjoy just walking through the buildings. The beach isn't a *beach* beach (don't turn up in your bikini), but worth a wander to go and see some fishing boats.
+
+### Kawagoe
+
+### Yokosuka
+
+#### Sarushima (from Yokosuka)
+
 ### Enoshima
 
 ### Yokohama
 
-### Kamakura
-If you're only going to Tokyo, a day trip out to Kamakura is highly recommended to see a bit more of the country. There are all kinds of temples, an enormous buddha, a really cute little train, but you'll also probably enjoy just walking through the buildings. The beach isn't a *beach* beach (don't turn up in your bikini), but worth a wander to go and see some fishing boats.
-
 ### Hakone / Fujikawaguchiko
 TODO
 
-
-# Train stamps
-
-### Harajuku
-On the left as you approach the station, inside the ticket office. Outside the ticket barriers.
-
-### Yoyogi
-JR West Exit, outside the ticket barriers. Not in the ticket office, instead there is a standalone stamp station next to the road.
-
-### Shinjuku
-East Exit (not Central), downstairs, inside a ticket office in the right corner as you go in.
-
-### Ikebukuro
-Wow this is a bigger station than I thought. This is right by the turnstile entry point (but still outside) at the South Gate, opposite a load of gacha machines. It's NOT in a ticket office.
-
-### Komagome
-North Exit, near the ticket machines. Outside of the gates and not in a ticket office.
-
-### Akihabara
-Inside the ticket office, near (turn left after) the Electric City exit as you're leaving. Outside of the ticket gates.
-
-### Ochanomizu
-Just inside the main entrance, on the left as you're coming in (outside the ticket gates). There is another smaller entrance - not this one.
-
-### Shinagawa
-In the middle of the main seat reservation office, against the window as you look out towards the central entrance gates.
-
-### Yotsuya
-Inside the ticket office by the Yotsuya exit
